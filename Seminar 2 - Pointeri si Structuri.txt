@@ -1,0 +1,17 @@
+Seminar 2
+
+Sa se creeze structura Telefon cu campurile
+	id - de tip intreg
+	producator - sir de caractere definit static
+	denumire - sir de caractere definit dinamic (pointer la char)
+	numar_preturi - de tip intreg
+	preturi - sir de preturi reprezentat printr-un pointer la float, constand in preturile practicate de diversi distributori
+	dimensiuni - sir de 3 dimensiuni, definit static: lungime, latime, grosime
+	
+Cerinte:
+1) Sa se defineasca structura.
+2) Sa se creeze o metoda care sa permita initializarea unui telefon transmis ca parametru.
+3) Sa se creeze o metoda pentru afisarea unui telefon
+4) Sa se defineasca, initializeze si afiseze un pointer la un telefon creat prin cerinta 2)
+5) Sa se actualizeze denumirea unui telefon dat ca parametru (folosind referinte)
+6) Sa se actualizeze denumirea unui telefon dat ca parametru (folosind pointeri)
