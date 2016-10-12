@@ -5,7 +5,7 @@ Sa se creeze structura Telefon cu campurile
 	producator - sir de caractere definit static
 	denumire - sir de caractere definit dinamic (pointer la char)
 	numar_preturi - de tip intreg
-	preturi - sir de preturi reprezentat printr-un pointer la float, constand in preturile practicate de diversi distributori
+	preturi - sir de preturi reprezentat printr-un pointer la float, constand in preturile practicate de diversi distribuitori
 	dimensiuni - sir de 3 dimensiuni, definit static: lungime, latime, grosime
 	
 Cerinte:
