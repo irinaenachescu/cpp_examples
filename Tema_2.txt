@@ -1,0 +1,31 @@
+Informatii despre cum se va incarca tema:
+- intrati pe: https://classroom.google.com si va autentificati cu contul vostru @stud.ase.ro
+- folositi urmatorul cod classroom: f3l4lh
+- tema trebuie incarcata pana luni, 31/10/2016, ora 23:59
+- nu se accepta teme cu erori de compilare
+- pentru neclaritati trimiteti un mail la: irina.enachescu@csie.ase.ro
+
+Cerinte Tema 2
+
+1. Pentru clasa aleasa de fiecare la seminar definiti minim 4 atribute in zona privata a clasei.
+Restrictii:
+	- cel putin un atribut declarat ca sir de caractere alocat dinamic
+	- cel putin un vector de elemente (int, float etc.) alocat dinamic
+	- cel putin un sir de caractere alocat static
+	- cel putin un atribut constant*
+	- cel putin un atribut static*
+	
+2. Creati pentru clasa voastra un constructor fara parametri, unul cu toti parametrii si unul cu 
+valori implicite.
+
+3. Creati destructor in clasa.
+
+4. Creati metode de acces (getter si setter) pentru fiecare atribut al clasei.
+Pentru cel putin un setter se va face o validare.
+
+5. Creati constructorul de copiere in clasa.*
+
+Atentie! Implementarea pentru fiecare cerinta trebuie testata in main.
+Puneti comentarii in main pentru fiecare functionalitate testata.
+
+*Cerintele marcate astfel sunt doar pentru Grupa 1042, deocamdata.
