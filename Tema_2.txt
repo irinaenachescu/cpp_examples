@@ -3,6 +3,7 @@ Informatii despre cum se va incarca tema:
 - folositi urmatorul cod classroom: f3l4lh
 - tema trebuie incarcata pana luni, 31/10/2016, ora 23:59
 - nu se accepta teme cu erori de compilare
+- se va incarca doar fisierul .cpp denumit astfel: numeStudent_grupaX.cpp
 - pentru neclaritati trimiteti un mail la: irina.enachescu@csie.ase.ro
 
 Cerinte Tema 2
