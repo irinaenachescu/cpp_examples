@@ -1,0 +1,20 @@
+Continuare exercitii pentru clasa Carte
+
+1) Sa se defineasca metode de acces pentru toate atributele private ale clasei.
+Obs. Acolo unde este cazul se vor defini validari.
+
+2) Adaugarea unui camp static (variabila globala ce apartine clasei de obiecte), numar_carti, 
+care se va folosi pentru a genera id-uri pentru cartile din sistem.
+Id-ul unei carti este un atribut constant (nu este permisa modificarea lui
+odata ce a fost initializat).
+Atentie! Un atribut constant se initializeaza doar prin lista de initializari a constructorului.
+
+3) Crearea constructorului de copiere in clasa Carte. Folosirea lui in main.
+Constructorul de copiere aloca spatiul aferent unui obiect si 
+il initializeaza pe acesta cu valorile unui obiect existent.
+Este apelat automat in toate situatiile de:
+	-> definire + initializare obiect nou.
+	-> apel al unei functii care lucreaza cu obiecte transferate prin valoare,
+	cand e nevoie de crearea unei copii a obiectului pe stiva.
+	-> returnarea dintr-o functie a unui obiect, prin valoare.
+	
