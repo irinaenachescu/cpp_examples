@@ -1,0 +1,10 @@
+Continuare exercitii pentru clasa Carte
+1) Supraincarcarea operatorului = in clasa Carte. Folosirea lui in main.
+In timp ce constructorul de copiere copiaza obiectul sursa intr-o zona neinitializata,
+in care isi construieste un obiect nou, operatorul de atribuire lucreaza cu doua obiecte
+deja existente, avand sarcina de a copia informatiile dintr-o zona in alta.
+
+2) Supraincarcarea operatorului << pentru afisarea unei carti la consola.
+Functii friend permit accesul pe zona privata sau protected din afara clasei.
+
+3) Supraincarcarea operatorului >> pentru citirea unei carti de la consola.
