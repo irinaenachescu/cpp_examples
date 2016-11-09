@@ -1,0 +1,7 @@
+Continuare exercitii pentru clasa Carte
+1) Supraincarcarea operatorului + care aduna o suma la pretul unei carti.
+
+2) Supraincarcarea operatorului -- (pre/post decrementare) care scade numarul de pagini al unei carti.
+
+
+	
