@@ -1,0 +1,26 @@
+Informatii generale:
+- tema trebuie trimisa pe email (irina.enachescu@csie.ase.ro), pana marti, 13/12/2016, ora 23:59
+- nu se accepta teme cu erori de compilare
+- se va incarca doar fisierul .cpp denumit astfel: numeStudent_grupaX.cpp
+- pentru neclaritati trimiteti un mail la: irina.enachescu@csie.ase.ro
+
+Observatie:
+Pentru cei care nu au trimis restul temelor, este obligatoriu sa se citeasca si sa se respecte 
+cerintele din temele precedente, pentru definirea atributelor din clasa.
+
+	
+Cerinte Tema 4
+
+1. Pentru clasa definita de voi scrieti o metoda care sa permita citirea unei liste de obiecte dintr-un
+fisier text, definit de voi. Se vor citi din fisier informatii pentru toate atributele din clasa.
+Pentru acordarea punctajului, obiectele citite din fisier trebuie afisate la consola (in functia main). 
+
+2. Generati un raport text cu informatii relevante despre un vector de obiecte de tipul clasei voastre.
+
+3. Creati o a doua clasa care sa mosteneasca prima clasa.
+Obligatoriu clasa noua trebuie sa aiba minim 2 atribute, dintre care unul sa fie alocat dinamic.
+Pentru clasa derivata se vor implementa constructori (cu si fara parametri), destructor si operatorul <<.
+
+
+Atentie! Pentru acordarea punctajului implementarea pentru fiecare cerinta trebuie testata in main.
+Este indicat sa puneti comentarii in main pentru fiecare functionalitate testata.
