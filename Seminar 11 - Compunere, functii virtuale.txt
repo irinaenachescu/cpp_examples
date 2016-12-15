@@ -1,0 +1,26 @@
+1. Finalizat cerintele de la seminarul 9.
+
+2. Supraincarcarea operatorului < in clasa StudentBursier, care sa permita compararea intre 2 studenti bursieri
+dupa valoarea bursei.
+
+3. Sa se creeze clasa Grupa cu urmatoarele atribute:
+int numar_studenti;
+Student* studenti;
+char denumire[10];
+
+4. Sa se realizeze in clasa grupa constructor fara parametri si constructor cu toti parametrii.
+
+5. Sa se supraincarce in clasa Grupa operatorul<< care sa permita scrierea informatiilor despre studentii grupei
+intr-un fisier text.
+
+6. Sa se afiseze in main studentii din grupa la consola. Ce se observa?
+
+7. Sa se creeze un vector de pointeri la studenti.
+In clasele Student si StudentBursier se va defini o metoda de afisare.
+Sa se afiseze studenti din vectorul creat anterior prin metoda de afisare.
+Ce se intampla daca metoda de afisare este marcata ca virtuala in clasa parinte?
+
+Functiile virtuale reprezinta defapt un pointer la functie.
+Fiind un pointer la functie apelul efectiv se face la momentul rularii si nu la momentul compilarii.
+Apare astfel termenul de late-binding, adica la momentul compilarii nu se stie inca ce metoda va fi apelata, 
+ci doar la momentul executiei se stie sigur metoda.
