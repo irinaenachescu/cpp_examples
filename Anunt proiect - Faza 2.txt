@@ -1,0 +1,19 @@
+Anunt Proiect - Faza 2
+
+Proiectele se vor trimite pe email (catre irina.enachescu@csie.ase.ro) pana la data de 30/12/2016, ora 23:59.
+Foarte important:
+1) Daca aveti clasele si main-ul in 2 fisiere separate, atunci veti trimite:
+		[Grupa_xxxx][Proiect][Faza_2]Nume_Prenume_CLASE.cpp
+		[Grupa_xxxx][Proiect][Faza_2]Nume_Prenume_MAIN.cpp
+		
+		Ambele fisiere intr-o arhiva: [Grupa_xxxx][Proiect][Faza_2]Nume_Prenume.rar
+2) Daca atat clasele cat si main-ul sunt intr-un singur fisier atunci veti trimite doar cpp-ul respectiv:
+		[Grupa_xxxx][Proiect][Faza_2]Nume_Prenume.cpp
+		
+Acolo unde este cazul puteti atasa si fisierele cu care ati testat.
+In acest caz obligatoriu fisierele se vor pune impreuna cu sursele .cpp intr-o arhiva denumita
+[Grupa_xxxx][Proiect][Faza_2]Nume_Prenume.rar.
+
+Pentru cei din an suplimentar/anul 3 grupa este cea la care se face recuperarea seminarului.
+	
+!Nerespectarea acestei conditii anuleaza faza a doua a proiectului.!
