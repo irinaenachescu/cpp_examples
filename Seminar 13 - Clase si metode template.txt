@@ -1,0 +1,27 @@
+Cerinte:
+
+1. Sa se scrie o metoda generica de tip template (compara) prin care sa se verifice egalitatea a doua valori.
+Sa se specializeze metoda pentru tipul char*.
+template <typename T>
+
+2. Sa se scrie o metoda generica de tip template (suma) prin care sa se adune doua valori.
+Sa se specializeze metoda pentru tipul char*.
+
+3. Sa se implementeze clasa template Masina care are atributele:
+combustibil (enum) : BENZINA, DIESEL, GPL
+numar_pasageri
+pasageri T*
+Se vor defini: constructor cu toti parametrii, constructor de copiere, operator=, destructor.
+Se va realiza o metoda getTipCombustibil care sa afiseze sub forma unui sir de caractere combustibilul.
+Sa se implementeze operatorul == care compara 2 masini dupa tipul de combustibil si numarul de pasageri.
+Sa se supraincarce operator<<.
+
+4. Sa se realizeze clasa Student cu atributul nume, sir de 50 de caractere.
+Se vor defini constructor cu si fara parametri, precum si operatorul de afisare la consola.
+
+5. Sa se realizeze clasa Pisica cu atributele rasa, sir de 15 de caractere si varsta.
+Se vor defini constructor cu si fara parametri, precum si operatorul de afisare la consola.
+
+6. In main se vor initializa si afisa 2 masini care transporta studenti.
+Se vor compara folosind metoda template implementata la punctul 1. 
+Se va initializa si afisa o masina care transporta pointeri la pisici. 
